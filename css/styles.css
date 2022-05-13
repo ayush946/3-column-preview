@@ -1,0 +1,134 @@
+body {
+  background-color: hsl(0, 0%, 95%);
+  font-size: 15px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.sedan {
+    background-color: hsl(31, 77%, 52%);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  height: 400px;
+  width: 220px;
+  padding: 30px;
+  margin: auto;
+  float: left;
+}
+
+.suvs {
+  background-color: hsl(184, 100%, 22%);
+  height: 400px;
+  width: 220px;
+  padding: 30px;
+  margin: auto;
+  float: left;
+}
+
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  height: 400px;
+  width: 220px;
+  padding: 30px;
+  margin: auto;
+  float: right;
+}
+
+.body-text {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.main-text {
+  color: hsl(0, 0%, 95%);
+  font-size: 35px;
+  font-family: 'Big Shoulders Display';
+  font-weight: 700;
+}
+
+.top-container {
+  margin: auto;
+  margin-top: 140px;
+  height: 400px;
+  width: 840px;
+}
+
+img{
+  margin-top: 20px;
+}
+.sedan-btn{
+  margin-top: 55px;
+}
+.suvs-btn{
+  margin-top: 55px;
+}
+.luxury-btn{
+  margin-top: 55px;
+}
+.btn-1 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color:  hsl(31, 77%, 52%);
+  font-size: 18px;
+  background: hsl(0, 0%, 95%);
+  padding: 10px 27px 10px 27px;
+  border: solid hsl(0, 0%, 95%) 2px;
+  text-decoration: none;
+}
+
+.btn-1:hover {
+  background: hsl(31, 77%, 52%);
+  color:  hsl(0, 0%, 95%);
+  text-decoration: none;
+}
+
+.btn-2 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color:  hsl(184, 100%, 22%);
+  font-size: 18px;
+  background: hsl(0, 0%, 95%);
+  padding: 10px 27px 10px 27px;
+  border: solid hsl(0, 0%, 95%) 2px;
+  text-decoration: none;
+}
+
+.btn-2:hover {
+  background: hsl(184, 100%, 22%);
+  color:  hsl(0, 0%, 95%);
+  text-decoration: none;
+}
+.btn-3 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color:  hsl(179, 100%, 13%);
+  font-size: 18px;
+  background: hsl(0, 0%, 95%);
+  padding: 10px 27px 10px 27px;
+  border: solid hsl(0, 0%, 95%) 2px;
+  text-decoration: none;
+}
+
+.btn-3:hover {
+  background: hsl(179, 100%, 13%);
+  color:  hsl(0, 0%, 95%);
+  text-decoration: none;
+}
